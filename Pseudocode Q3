@@ -1,0 +1,19 @@
+START
+
+// INPUT/OUTPUT
+Input A
+Input B
+
+// Variables and Initialization
+SET sum to 0
+
+// Process steps
+SET sum to A + B 
+SET subtract to A - B or B - A
+
+// Conditional statements
+IF sum > 0 THEN 
+PRINT the answer as is
+ELSE 
+PRINT the answer with the '-' symbol
+END
