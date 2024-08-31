@@ -1,0 +1,11 @@
+Ask the user to enter a number 
+Ask the user to enter another number
+Ask the user to implement a operation between them
+If the user chooses '+' then add the numbers
+Display the answer
+If the user chooses '-' then subtract the numbers
+Display the answer and if the answer is smaller than 0 then display the '-' before the answer
+If the user chooses '*' then multiply the numbers
+Display the answer and if one of the numbers is negative then the answer will also be negative
+If the user chooses '/' then divide the numbers
+Display the answer and if the denominator is 0 then display error
