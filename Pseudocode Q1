@@ -1,0 +1,21 @@
+START
+
+// INPUT/OUTPUT
+Input number1
+Input number2
+Input number3
+Input number4
+
+//Process Steps
+Divide number1/number4
+Divide number2/number4
+Divide number3/number4
+
+// Conditional Statements
+IF number1 gives the largest answer THEN
+PRINT "number1 is the largest" 
+IF number2 gives the largest answer THEN 
+PRINT "number2 is the largest"
+IF number3 gives the largest answer THEN
+PRINT "number3 is the largest"
+END
