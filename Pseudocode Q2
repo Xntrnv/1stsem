@@ -1,0 +1,14 @@
+START
+
+// INPUT/OUTPUT
+Input A
+Input B
+Input C
+
+// Process steps
+Take Average of A,B and C 
+PRINT the average
+Multiply the Average by 3
+
+END
+
