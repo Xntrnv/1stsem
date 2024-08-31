@@ -1,0 +1,7 @@
+Ask the user to enter a Number n 
+Ask the user to enter the Nth number
+Divide the number n by the Nth
+If the number is fully divisible then it is a divisor 
+Display if the number is a divisor otherwise display that it is not a divisor
+Divide the number n by 2
+If the number n is fully divisible then Display it is an even number otherwise display that it is an odd number
