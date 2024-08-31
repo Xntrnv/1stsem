@@ -1,0 +1,13 @@
+Ask the user to enter a number between 1 and 12
+If the number entered is 1 then Display January
+If the number entered is 2 then Display February
+If the number entered is 3 then Display March
+If the number entered is 4 then Display April
+If the number entered is 5 then Display May
+If the number entered is 6 then Display June
+If the number entered is 7 then Display July
+If the number entered is 8 then Display August
+If the number entered is 9 then Display September
+If the number entered is 10 then Display October
+If the number entered is 11 then Display November
+If the number entered is 12 then Display December
